@@ -3,7 +3,7 @@
     "eslint:recommended",
     "plugin:import/errors",
     "plugin:react/recommended",
-    "plugin:jsx-a11y/recommeded",
+    "plugin:jsx-a11y/recommended",
     "plugin:react-hooks/recommended",
     "prettier"
   ],
@@ -11,7 +11,7 @@
     "react/prop-types": 0,
     "react/react-in-jsx-scope": 0
   },
-  "plugins": ["react", "import", "jsx-a11y", "react-hooks"],
+  "plugins": ["react", "import", "jsx-a11y"],
   "parserOptions": {
     "ecmaVersion": 2022,
     "sourceType": "module",
